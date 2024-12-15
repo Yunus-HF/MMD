@@ -1,0 +1,2 @@
+# MMD
+*Self-study only
